@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.gitignore
+.pylintrc
 test.py
 Add-Skxttps38.png
 ui.ui
